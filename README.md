@@ -32,5 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
