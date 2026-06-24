@@ -28,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
