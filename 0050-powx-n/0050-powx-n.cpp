@@ -1,19 +1,18 @@
 class Solution {
+private:
+    double calPow(double a ,double x , int n){
+        if(n == 0) return a;
+        if(n == 1) return a * x;
+        if(n % 2 == 0) return calPow(a ,  x * x , n / 2);
+        return calPow(a * x , x * x, n /2);
+        
+    }
 public:
     double myPow(double x, int n) {
-        long long a = n;
-        if(a < 0) {
-            a = -a;
-            x = 1/x;
-        }
-        double ans = 1.0;
-        while(a > 0){
-            if(a %2 == 1){
-                ans *= x;
-            }
-            x *= x;
-            a /= 2;
-        }
+        if(x == 0) return 0;
+        if(x == 1 || n == 0) return 1;
+        if(n < 0) x = 1 / x;
+        double ans = calPow(1 , x , n);
         return ans;
     }
 };
