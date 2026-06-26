@@ -48,4 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
