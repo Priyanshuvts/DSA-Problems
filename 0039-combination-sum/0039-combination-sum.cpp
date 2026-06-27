@@ -1,21 +1,23 @@
 class Solution {
-private:
-    void subs(vector<vector<int>>& ans , vector<int> cd , int k ,int idx = 0,vector<int> apd = {}){
-        if(idx == cd.size()){
-            if(k == 0) ans.push_back(apd);
+public:
+    void backtrack(vector<int>& candidates, int remaining, int start, vector<int>& path, vector<vector<int>>& results) {
+        if (remaining == 0) {
+            results.push_back(path);
             return;
         }
-        if(cd[idx] <= k){
-            apd.push_back(cd[idx]);
-            subs(ans , cd , k - cd[idx] , idx , apd);
-            apd.pop_back();
+        if (remaining < 0) return;
+
+        for (int i = start; i < candidates.size(); ++i) {
+            path.push_back(candidates[i]);
+            backtrack(candidates, remaining - candidates[i], i, path, results);
+            path.pop_back();
         }
-        subs(ans,cd , k , idx + 1 , apd);
     }
-public:
+
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        subs(ans, candidates, target);
-        return ans;
+        vector<vector<int>> results;
+        vector<int> path;
+        backtrack(candidates, target, 0, path, results);
+        return results;
     }
 };
