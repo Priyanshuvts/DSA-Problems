@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0202-happy-number](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
 ## String
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
