@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0260-single-number-iii) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Backtracking
 |  |
 | ------- |
