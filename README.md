@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0260-single-number-iii) |
+| [0724-find-pivot-index](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [2239-find-closest-number-to-zero](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2678-number-of-senior-citizens) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
