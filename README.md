@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0263-ugly-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
