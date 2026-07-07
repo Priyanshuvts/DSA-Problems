@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyanshuvts/DSA-Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyanshuvts/DSA-Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyanshuvts/DSA-Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
