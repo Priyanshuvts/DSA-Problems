@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
