@@ -9,14 +9,17 @@ private:
     }
 public:
     string reverseWords(string s) {
-        stringstream ss(s);
-        string word;
-        string ans;
-        while(ss >> word){
-            ans += rev(word);
-            ans += " ";
+        string ans = "";
+        string word = "";
+        for(int i = 0; i < s.size(); i ++){
+            if(s[i] == ' '){
+                ans += rev(word);
+                ans += " ";
+                word = "";
+            }
+            else word += s[i];
         }
-        ans.pop_back();
+        if(!word.empty()) ans += rev(word);
         return ans;
     }
 };
