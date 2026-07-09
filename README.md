@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0796-rotate-string) |
