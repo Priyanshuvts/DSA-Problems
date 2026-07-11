@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0896-monotonic-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2239-find-closest-number-to-zero) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
@@ -169,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
