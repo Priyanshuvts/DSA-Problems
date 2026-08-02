@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0908-smallest-range-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0908-smallest-range-i) |
+| [1991-find-the-middle-index-in-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2239-find-closest-number-to-zero](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Stack
 |  |
 | ------- |
