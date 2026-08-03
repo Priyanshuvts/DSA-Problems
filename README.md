@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0908-smallest-range-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0908-smallest-range-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2239-find-closest-number-to-zero](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2239-find-closest-number-to-zero) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Stack
 |  |
@@ -217,8 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0460-lfu-cache) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
