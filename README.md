@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0202-happy-number) |
+| [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Divide and Conquer
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyanshuvts/DSA-Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Merge Sort
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0724-find-pivot-index) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyanshuvts/DSA-Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
