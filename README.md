@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0860-lemonade-change) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 ## Enumeration
