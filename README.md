@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
