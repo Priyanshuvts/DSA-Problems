@@ -16,7 +16,7 @@ private:
 
         int left = check(root -> left, ht + 1);
         int right = check(root -> right , ht + 1);
-
+        if(left == -1 || right == -1) return -1;
         if(abs(left - right) > 1) return -1;
         return max(left , right);
     }
