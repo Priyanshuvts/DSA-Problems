@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3903-smallest-stable-index-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyanshuvts/DSA-Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Backtracking
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [3903-smallest-stable-index-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
