@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
