@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
