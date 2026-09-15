@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0496-next-greater-element-i) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0260-single-number-iii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0496-next-greater-element-i) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
 |  |
