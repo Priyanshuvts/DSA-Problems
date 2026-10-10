@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -375,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
@@ -384,5 +390,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
