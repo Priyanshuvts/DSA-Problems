@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2678-number-of-senior-citizens](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0908-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Priyanshuvts/DSA-Problems/tree/master/2652-sum-multiples) |
 ## Recursion
