@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0202-happy-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0078-subsets) |
+| [0126-word-ladder-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -432,5 +436,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
