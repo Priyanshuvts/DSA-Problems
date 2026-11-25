@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1020-number-of-enclaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1020-number-of-enclaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuvts/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
